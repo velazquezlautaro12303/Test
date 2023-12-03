@@ -1,0 +1,4 @@
+../Core/Src/Board/w25q80dv.c:67:6:w25q80dv_init	1
+../Core/Src/Board/w25q80dv.c:74:6:w25q80dv_write	1
+../Core/Src/Board/w25q80dv.c:84:14:w25q80db_read	1
+../Core/Src/Board/w25q80dv.c:97:13:w25q80dv_write_enable	1

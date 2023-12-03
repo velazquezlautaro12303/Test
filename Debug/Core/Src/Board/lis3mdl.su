@@ -1,0 +1,2 @@
+../Core/Src/Board/lis3mdl.c:68:6:lis3mdl_init	24	static
+../Core/Src/Board/lis3mdl.c:79:14:lis3mdl_read	40	static

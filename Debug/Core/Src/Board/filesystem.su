@@ -1,0 +1,4 @@
+../Core/Src/Board/filesystem.c:57:6:filesystem_init	8	static
+../Core/Src/Board/filesystem.c:62:6:filesystem_write	80	static
+../Core/Src/Board/filesystem.c:80:6:filesystem_read	88	static
+../Core/Src/Board/filesystem.c:106:12:isAvailableForWrite	32	static
